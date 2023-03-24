@@ -1,0 +1,3 @@
+* To read datas from excel you need to have 2 dependencies from maven -> 1. poi-ooxml 2. poi and add this in pom.xml
+
+* 
