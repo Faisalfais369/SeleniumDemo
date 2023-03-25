@@ -15,6 +15,8 @@ public class RunFirstExcelProgram {
 		System.out.println(a.get(2));
 		System.out.println(a.get(3));
 		System.out.println(a.get(4));
+		
+		System.out.println("Delete this  once done  checking the  Github process");
 	}
 
 }
